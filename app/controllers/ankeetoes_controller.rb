@@ -1,0 +1,2 @@
+class AnkeetoesController < ApplicationController
+end
